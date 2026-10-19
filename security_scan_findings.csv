@@ -1,0 +1,8 @@
+Check,Result
+HTTPS,PASS
+HTTP response status,200
+Content-Security-Policy,Missing
+Strict-Transport-Security,Missing
+X-Content-Type-Options,Missing
+X-Frame-Options,Missing
+Referrer-Policy,Missing
